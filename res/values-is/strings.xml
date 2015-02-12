@@ -69,7 +69,7 @@
 
 <!-- about dialog -->
 <string name="ad_title">Um APRSdroid v%s</string>
-<string name="ad_copyright">Höfundaréttur © 2009-2013 Georg Lukas (DO1GL)\n http://aprsdroid.org \n\n APRS® er skráð vörumerki Bob Bruninga (WB4APR) Íslensk þýðing TF3ARI</string>
+<string name="ad_copyright">Höfundaréttur © 2009-2015 Georg Lukas (DO1GL)\n http://aprsdroid.org \n\n APRS® er skráð vörumerki Bob Bruninga (WB4APR) Íslensk þýðing TF3ARI</string>
 <string name="ad_gpl">This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
 	as published by the Free Software Foundation; either version 2
